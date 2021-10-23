@@ -1,7 +1,7 @@
 #include<stdio.h>
-
-int main()
+#include<conio.h>
+void main()
 {
-	printf("---NANDRI YESUVEA\n---");
+	printf("hello world\n");
 	return 0;
 }
